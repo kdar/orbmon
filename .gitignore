@@ -13,3 +13,4 @@
 tests/*.err
 
 /help
+/unused
